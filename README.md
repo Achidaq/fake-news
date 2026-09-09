@@ -1,3 +1,20 @@
+# About this fork
+
+This is a learning/reference fork of [lutzhamel/fake-news](https://github.com/lutzhamel/fake-news).
+
+At the portfolio review on 2026-09-09, this fork's default branch was identical to upstream. The notebooks, report, experiments, and reported results below belong to the upstream project; they are not presented as new experiments by this fork's maintainer.
+
+## Reading guide
+
+- [Classification notebook](fake_news_classification.ipynb): the upstream computational workflow.
+- [Report](report.md): the upstream explanation and results.
+- [Vectorizer example](vectorizer-example.ipynb): a smaller text-vectorization example.
+- [License](LICENSE): the existing project license.
+
+The environment and reported results have not been reproduced as part of this documentation update.
+
+---
+
 # kdnuggets-fake-news
 This is a further development of the kdnuggets article on fake news classification by George McIntyre:
 
